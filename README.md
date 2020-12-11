@@ -2,7 +2,7 @@
 
 ## Adaptive productizing process
 
-[Product](https://github.com/IamVigneshC/ProductManagement/blob/main/Productizing-Process-1.png)
+![Product](https://github.com/IamVigneshC/ProductManagement/blob/main/Productizing-Process-1.png)
 
 
 ## Competitor Analysis:
