@@ -21,3 +21,9 @@
 - Validation (Pre-product)
 - Satisfaction (post-product)
 - Efficiency (post-product)
+
+Pre-Product: 3 card stud - Group1,2,3: Size, Pain:to payment, Accesiblity
+
+https://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/
+
+
