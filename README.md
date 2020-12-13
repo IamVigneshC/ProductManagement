@@ -18,6 +18,6 @@
 ## Interviewing
 
 - Exploratory (Pre-product)
-- Validation
+- Validation (Pre-product)
 - Satisfaction (post-product)
-- Efficiency
+- Efficiency (post-product)
