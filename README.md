@@ -1,5 +1,16 @@
 # ProductManagement
 
+A great PM:
+
+- Data Oriented
+- Humbleness
+- Challenging Yourself
+- Empathy and Respect
+- Integrity
+- Diplomacy
+- Transparency
+- Being Ahead of the game
+
 ## Adaptive productizing process
 
 ![Product](https://github.com/IamVigneshC/ProductManagement/blob/main/Productizing-Process-1.png)
