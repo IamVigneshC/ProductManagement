@@ -1,4 +1,4 @@
-# ProductManagement
+# Product Management
 
 A great PM:
 
@@ -10,6 +10,15 @@ A great PM:
 - Diplomacy
 - Transparency
 - Being Ahead of the game
+
+Product: 
+
+- Vision
+- Strategy
+- Values
+- SWOT
+- User Personas
+
 
 ## Adaptive productizing process
 
