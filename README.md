@@ -19,6 +19,11 @@ Product:
 - SWOT
 - User Personas
 
+Things to consider:
+- External and Internal factors for problem root cause analysis
+- Macro economic vs Technical side
+- Problem statement, pain points, customer segments
+- Prioritization, Solution 
 
 ## Adaptive productizing process
 
