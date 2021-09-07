@@ -20,10 +20,9 @@ Product:
 - User Personas
 
 Things to consider:
-- External and Internal factors for problem root cause analysis
-- Macro economic vs Technical side
-- Problem statement, pain points, customer segments
-- Prioritization, Solution 
+- Problem root cause analysis - External and Internal factors (Macro economic vs Technical side) 
+- Product Improvements - Problem statement, pain points, customer segments, Prioritization, Solution
+- Design Product - Competitor analysis, Customer segmentation (group of users), Brainstorm pain points, ideas, prioritize but in alignment with vision, pain points, measure success
 
 ## Adaptive productizing process
 
