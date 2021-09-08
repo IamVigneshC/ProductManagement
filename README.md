@@ -24,6 +24,14 @@ Things to consider:
 - Product Improvements - Problem statement, pain points, customer segments, Prioritization, Solution
 - Design Product - Competitor analysis, Customer segmentation (group of users), Brainstorm pain points, ideas, prioritize but in alignment with vision, pain points, measure success
 
+
+
+Ideas - Brainstorming, Research, Feedback
+
+Market Analysis - Market trends, Segmentation, 
+
+Client Interview - Open ended questions
+
 ## Adaptive productizing process
 
 ![Product](https://github.com/IamVigneshC/ProductManagement/blob/main/Productizing-Process-1.png)
