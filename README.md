@@ -13,9 +13,10 @@ A great PM:
 
 Product: 
 
-- Vision
-- Strategy
-- Values
+- Vision (high level, Why the product, long term)
+- Strategy (How to achieve, who are customers and market)
+- Roadmap (Technical/Tactical approach to achieve strategy with a time line)
+- Values (guiding principles
 - SWOT
 - User Personas
 
