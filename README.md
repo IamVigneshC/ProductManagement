@@ -87,3 +87,19 @@ Customers: Define your target audience. Deeply research the type of customer, th
 
 Competitors: To be successful, you need to know your market and especially your competitors. You want to learn how they operate, what marketing tactics they use, who their partners are, what financial position they are, who their employees and customers are. You can learn for your competitors' mistakes, model what works for them, discover from them new market opportunities.
 
+
+
+# SWOT Analysis
+
+Internal factors:
+- Strength 
+- Weakness  (This is something to improvize, give next priority)
+External factors:
+- Oppurtunities (Take advantage of this and give top priority)
+- Threats
+
+# Hypothesis
+
+Assumptions made which will end up positive
+
+[user group] [have some problem] [define the goal to achieve] [some % ] [measurement] [over some period of time]
