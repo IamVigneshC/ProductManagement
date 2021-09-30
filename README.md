@@ -103,3 +103,20 @@ External factors:
 Assumptions made which will end up positive
 
 [user group] [have some problem] [define the goal to achieve] [some % ] [measurement] [over some period of time]
+
+
+## Testing the hypotheses
+
+[Problem] - Why? Why? Why? Reason?
+
+Example:
+
+Problem - Members not enrolling (enrollment decreased)
+Ask Why?
+- Not satisfied
+- Didn't fullfill the needs - ask Why? [Look at the data on what missing]
+- Didn't understand the value - Why? [Better display the details in website, Run campaigns to educate]
+- Not needed now
+- Not needed at all - Why? [Survey and understand when likely and what likely affects]
+- Not easy - why? [A/B test user experience, how to navigate]
+- Not relevant [Interview users about this and understand]
