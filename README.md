@@ -120,3 +120,22 @@ Ask Why?
 - Not needed at all - Why? [Survey and understand when likely and what likely affects]
 - Not easy - why? [A/B test user experience, how to navigate]
 - Not relevant [Interview users about this and understand]
+
+
+
+## Design Thinking
+
+Courtesy: Chris Nodder
+
+Gathering Inputs
+Assemble the notes
+Identify Pain Points
+Create Goals
+Metrics
+Build Personas
+Ideation
+Paper Prototype
+Scenarios (Story Board)
+Usuability Tests
+
+
