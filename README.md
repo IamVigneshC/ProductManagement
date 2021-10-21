@@ -38,7 +38,7 @@ Client Interview - Open ended questions
 ![Product](https://github.com/IamVigneshC/ProductManagement/blob/main/Productizing-Process-1.png)
 
 
-## Competitor Analysis:
+## Competitor Analysis
 
 - Feature table
 
@@ -59,6 +59,10 @@ Pre-Product: 3 card stud - Group1,2,3: Size, Pain:to payment, Accesiblity
 
 https://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/
 
+
+## Data 
+
+Open data - freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
 
 
 Source: Giacomo Lami
@@ -127,15 +131,15 @@ Ask Why?
 
 Courtesy: Chris Nodder
 
-Gathering Inputs
-Assemble the notes
-Identify Pain Points
-Create Goals
-Metrics
-Build Personas
-Ideation
-Paper Prototype
-Scenarios (Story Board)
-Usuability Tests
+- Gathering Inputs
+- Assemble the notes
+- Identify Pain Points
+- Create Goals
+- Metrics
+- Build Personas
+- Ideation
+- Paper Prototype
+- Scenarios (Story Board)
+- Usuability Tests
 
 
