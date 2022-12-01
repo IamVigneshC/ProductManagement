@@ -1,8 +1,8 @@
-Six Thinking Hats
+# Six Thinking Hats
 
 Making the best decisions often requires looking at them through different lenses so that you don't overlook an important aspect. Six Thinking Hats, created by Edward de Bono, is a tool for doing exactly that. You can use it for your own thinking or in a group where everyone can represent a different perspective.
 
-How to use it
+## How to use it
 Each thinking hat represents one lens/perspective/style of thinking. Try "wearing" different hats and look at the decision through each.
 
 If you're in a group, you can assign the hats to everyone to get a balanced discussion. Or you can go through different perspectives as a whole group.
@@ -35,10 +35,51 @@ The group decides to wear the red hat to do a check how everyone feels about thi
 
 In this example, the group arrived at a reasonable next step toward making this decision. Using the Six Thinking Hats, every perspective was heard and the outcome was made possible by discussing the different perspectives.
 
-Key takeaway
+## Key takeaway
 Six Thinking Hats is a tool that allows you to consider a decision or problem from different angles. It enables you to deliberately see aspects you might otherwise overlook, making your decision better and more resilient in the end.
 
 If you want to find out more about the Six Thinking Hats, Edward de Bono's book with the same title is the best place.
 
-Sources
+## Sources
 "Six Thinking Hats" by Edward de Bono
+
+
+
+# Second-order thinking
+
+Some decisions seem like wins at first, but turn out to be losses over time. What seems like an investment now turns out to be a liability later. What looked like a good decision earlier is now a bad one. Second-order thinking is a tool that will help you examine the long-term effects of your decisions.
+
+Most people stop at first-order thinking. Second-order thinking is necessary to make decisions that will stand the test of time. We need to make sure we're okay with more long-term consequences of our decisions today.
+
+## How to use it?
+Using second-order thinking can be a purely mental exercise or you can write it down on paper.
+
+Consider a decision you have to make. Start by looking at the most immediate effects of making this decision – the first order.
+
+Then for each of the effect ask yourself: "And then what?" That's how you examine the second order of this decision's consequences. You can repeat this for as many orders as you find practical.
+
+Alternatively, think about the decision in different timelines. Ask yourself: What will be the consequences of this decision in
+
+10 minutes? 
+10 months?
+10 years?
+This way you can think about the short-term, medium-term and long-term consequences of your decision.
+
+You can apply second-order thinking on big decisions (e.g. buying a house), but also small, seemingly mundane, decisions (e.g. eating a cake). It's a very universal tool that is relevant not just in personal life, but also in business or policy-making.
+
+Second-order thinking in practice
+Let's explore what second-order thinking looks like in action. Consider the decision of buying a house outside of the city.
+
+The immediate effects might be having a garden, more space for your family, but also suddenly living an hour away from work.
+
+Now look at higher-order consequences of each:
+
+having a garden → able to grow your produce → having fresh herbs and vegetables
+more space for family → more rooms to clean → more stress from a messy home 
+living an hour away from work → need to buy a car → spending two hours of each day in a car
+Obviously, this is just a small subset of consequences for such a big decision, but it shows how second-order thinking can help you see the more long-term consequences. You can now make a more informed and thoughtful decision.
+
+
+## Sources
+"Second-order thinking" by Shane Parrish
+"The Most Important Thing" by Howard Marks
