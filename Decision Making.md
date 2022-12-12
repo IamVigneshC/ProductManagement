@@ -321,22 +321,35 @@ Weights
 
 
 Sketch	4	2	3	
+
 Figma	3	3	5	
+
 Framer	3	5	3	
+
 At this point, the decision might be a little clearer, but all factors aren't equally important. You need to add weight to them. Since your budget is set, the cost factor is the most important, making it a 5. Your team says that prototyping is a little more important for them than collaboration features. You weight the factors accordingly:
 
 Factors	Cost	Prototyping	Collaboration	Score
+
 Weights	5	4	3	
+
 Sketch	4	2	3	
+
 Figma	3	3	5	
+
 Framer	3	5	3	
+
 The next step is multiplying the scores with the weight of each factor. Score on each factor then adds up to a final score for every option:
 
 Factors	Cost	Prototyping	Collaboration	Score
+
 Weights	5	4	3	
+
 Sketch	4*5 = 20	2*4 = 8	3*3 = 9	37
+
 Figma	3*5 = 15	3*4 = 12	5*3 = 15	42
+
 Framer	3*5 = 15	5*4 = 20	3*3 = 9	44
+
 And there you have it. You have a score for each option based on the factors that are important for you. In this case, Framer comes out as the winner.
 
 Decision matrix is a very useful tool for situations like this. When there are multiple factors to consider, this tools removes the uncertainty and subjectivity from your decision-making. It allows you to clearly figure out which decision is the most reasonable to make.
